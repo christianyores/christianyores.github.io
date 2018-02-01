@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #EBEBEB;
+	overflow-x: hidden;
+}
+
+.btn {
+	border-radius: 2.0rem;
+}
+
+.bg-nav {
+	/*background-color: #FECF07 !important;*/
+	background-color: rgba(254,207,7,0);
+}
+
+.bg-clear {
+	background-color: rgba(255,255,255,0.92);	
+}
+
+.landing-img {
+	position: absolute;
+	z-index: -1000;
+}
+
+.responsive-img {
+	width: 100%;
+	height: auto;
+}
+
+footer {
+	width: 100%;
+	min-height: 200px;
+	background-color: #333;
+}
